@@ -6,4 +6,6 @@ This is a repository that includes python code, such as:
 
 ```python
 import pandas as pd
+
+df = pd.read_csv("data/train.csv")
 ```
